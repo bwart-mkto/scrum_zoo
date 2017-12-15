@@ -1,6 +1,6 @@
 ---
 title: Jimmy's Zoo
-description: 
+description: ''
 ---
 
 # Animals in the Zoo
