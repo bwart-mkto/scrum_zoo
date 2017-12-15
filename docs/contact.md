@@ -1,5 +1,5 @@
 ---
-title: "The Scrum Zoo"
+title: "Jimmy's Zoo"
 description: "Contact Us"
 ---
 
