@@ -4,7 +4,7 @@ description: "Contact Us"
 ---
 
 <form id="imagesubmit" method="POST" action="https://formspree.io/bwart@marketo.com">
-  <input type="hidden" name="_subject" value="Contact Us Form Submission" />
+  <input type="hidden" name="_subject" value="The Scrum Zoo: Contact Submission" />
   <input type="hidden" name="_gotcha" style="display:none" />
   <input type="hidden" name="_next" value="https://bwart-mkto.github.io/scrum_zoo/thankyou" />
   <input type="hidden" name="_cc" value="sfabini@marketo.com,kbielewicz@marketo.com,mfenwick@marketo.com,talkhateeb@marketo.com" />
