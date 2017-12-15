@@ -2,6 +2,7 @@
 title: Jimmy's Zoo
 description: ''
 ---
+{% include navigation.md %}
 
 # Animals in the Zoo
 
