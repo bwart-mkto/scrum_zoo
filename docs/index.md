@@ -2,4 +2,14 @@
 title: The Scrum Zoo
 ---
 
-# Links to Animals
+# Animals in the Zoo
+
+## Dolphins
+
+## Griffin
+
+![](https://bwart-mkto.github.io/scrum-team-griffin-site/Griffin%20image%201.jpg)
+
+## Narwhal
+
+## Puffin
