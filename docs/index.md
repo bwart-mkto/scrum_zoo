@@ -8,6 +8,8 @@ description: Home
 
 ## Dolphins
 
+[![](https://sprengertrinker.github.io/02.jpg)](https://sprengertrinker.github.io/)
+
 ## Griffin
 
 [![](https://bwart-mkto.github.io/scrum-team-griffin-site/Griffin%20image%201.jpg)](https://bwart-mkto.github.io/scrum-team-griffin-site/)
