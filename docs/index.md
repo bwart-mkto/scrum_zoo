@@ -19,3 +19,5 @@ description: Home
 [![](https://rdubrock.github.io/narwhals/jedi_narwhal.jpg)](https://rdubrock.github.io/narwhals/)
 
 ## Puffin
+
+[![](https://dpcairns.github.io/scrum-puffin/homepage__puffy.png)](https://dpcairns.github.io/scrum-puffin/)
