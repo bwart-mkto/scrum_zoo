@@ -1,6 +1,6 @@
 ---
 title: Jimmy's Zoo
-description: ''
+description: Home
 ---
 {% include navigation.md %}
 
