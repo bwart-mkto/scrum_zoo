@@ -8,7 +8,7 @@ title: The Scrum Zoo
 
 ## Griffin
 
-![](https://bwart-mkto.github.io/scrum-team-griffin-site/Griffin%20image%201.jpg)
+[![](https://bwart-mkto.github.io/scrum-team-griffin-site/Griffin%20image%201.jpg)](https://bwart-mkto.github.io/scrum-team-griffin-site/)
 
 ## Narwhal
 
