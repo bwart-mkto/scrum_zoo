@@ -2,6 +2,7 @@
 title: "Jimmy's Zoo"
 description: "Contact Us"
 ---
+{% include navigation.md %}
 
 <form id="imagesubmit" method="POST" action="https://formspree.io/bwart@marketo.com">
   <input type="hidden" name="_subject" value="The Scrum Zoo: Contact Submission" />
