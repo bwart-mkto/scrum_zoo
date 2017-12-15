@@ -20,4 +20,4 @@ description: Home
 
 ## Puffin
 
-[![](https://dpcairns.github.io/scrum-puffin/homepage__puffy.png)](https://dpcairns.github.io/scrum-puffin/)
+[![](https://dpcairns.github.io//scrum-puffin/static/media/homepage__puffy.ba76df1c.png)](https://dpcairns.github.io/scrum-puffin/)
