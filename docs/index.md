@@ -1,5 +1,6 @@
 ---
-title: The Scrum Zoo
+title: Jimmy's Zoo
+description: 
 ---
 
 # Animals in the Zoo
