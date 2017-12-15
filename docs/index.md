@@ -13,4 +13,6 @@ description:
 
 ## Narwhal
 
+[![](https://rdubrock.github.io/narwhals/jedi_narwhal.jpg)](https://rdubrock.github.io/narwhals/)
+
 ## Puffin
